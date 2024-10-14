@@ -3,9 +3,9 @@ AMÉRICA DO SUL ( NOVIBET )
 Serie A (Brasil)
 qua 21:45
 [ Fortaleza CE vs Atlético MG ]
-Vitória Fortaleza CE: ODD 1.80
+Vitória Fortaleza CE: ODD 1.78
 Empate: ODD 3.60
-Vitória Atlético MG: ODD 4.60
+Vitória Atlético MG: ODD 4.75
 -----------------------------------
 Serie A (Brasil)
 qua 21:45
@@ -15,49 +15,49 @@ Empate: ODD 3.60
 Vitória Vasco da Gama RJ: ODD 4.95
 -----------------------------------
 Serie A (Brasil)
-17 de out 20:00
+qui 20:00
 [ Corinthians SP vs Athlético Paranaense PR ]
 Vitória Corinthians SP: ODD 1.75
 Empate: ODD 3.60
 Vitória Athlético Paranaense PR: ODD 4.90
 -----------------------------------
 Serie A (Brasil)
-17 de out 20:00
+qui 20:00
 [ Flamengo RJ vs Fluminense RJ ]
 Vitória Flamengo RJ: ODD 1.87
 Empate: ODD 3.50
-Vitória Fluminense RJ: ODD 4.35
+Vitória Fluminense RJ: ODD 4.30
 -----------------------------------
 Serie A (Brasil)
-18 de out 19:00
+sex 19:00
 [ Atletico Goianiense GO vs Cuiabá MT ]
-Vitória Atletico Goianiense GO: ODD 2.09
-Empate: ODD 3.25
-Vitória Cuiabá MT: ODD 3.75
------------------------------------
-Serie A (Brasil)
-18 de out 20:00
-[ Botafogo-RJ vs Criciúma SC ]
-Vitória Botafogo-RJ: ODD 1.44
-Empate: ODD 4.60
-Vitória Criciúma SC: ODD 7.00
------------------------------------
-Serie A (Brasil)
-18 de out 21:30
-[ Cruzeiro MG vs Bahia BA ]
-Vitória Cruzeiro MG: ODD 2.15
+Vitória Atletico Goianiense GO: ODD 2.05
 Empate: ODD 3.30
-Vitória Bahia BA: ODD 3.55
+Vitória Cuiabá MT: ODD 3.80
 -----------------------------------
 Serie A (Brasil)
-19 de out 16:00
+sex 20:00
+[ Botafogo-RJ vs Criciúma SC ]
+Vitória Botafogo-RJ: ODD 1.41
+Empate: ODD 4.75
+Vitória Criciúma SC: ODD 7.50
+-----------------------------------
+Serie A (Brasil)
+sex 21:30
+[ Cruzeiro MG vs Bahia BA ]
+Vitória Cruzeiro MG: ODD 2.20
+Empate: ODD 3.25
+Vitória Bahia BA: ODD 3.45
+-----------------------------------
+Serie A (Brasil)
+sáb 16:00
 [ Internacional RS vs Grêmio RS ]
-Vitória Internacional RS: ODD 1.73
-Empate: ODD 3.75
-Vitória Grêmio RS: ODD 4.85
+Vitória Internacional RS: ODD 1.76
+Empate: ODD 3.70
+Vitória Grêmio RS: ODD 4.70
 -----------------------------------
 Serie A (Brasil)
-19 de out 16:00
+sáb 16:00
 [ Vitória BA vs Bragantino ]
 Vitória Vitória BA: ODD 2.35
 Empate: ODD 3.20
@@ -73,79 +73,79 @@ Vitória Palmeiras SP: ODD 1.72
 Serie A (Brasil)
 22 de out 19:30
 [ Fluminense RJ vs Athlético Paranaense PR ]
-Vitória Fluminense RJ: ODD 2.00
+Vitória Fluminense RJ: ODD 2.05
 Empate: ODD 3.20
-Vitória Athlético Paranaense PR: ODD 4.25
+Vitória Athlético Paranaense PR: ODD 4.00
 -----------------------------------
 Serie A (Brasil)
 23 de out 19:00
 [ Vasco da Gama RJ vs Cuiabá MT ]
-Vitória Vasco da Gama RJ: ODD 1.85
-Empate: ODD 3.35
-Vitória Cuiabá MT: ODD 4.70
+Vitória Vasco da Gama RJ: ODD 1.84
+Empate: ODD 3.50
+Vitória Cuiabá MT: ODD 4.50
 -----------------------------------
 Serie A (Brasil)
 26 de out 16:30
 [ Grêmio RS vs Atletico Goianiense GO ]
-Vitória Grêmio RS: ODD 1.52
-Empate: ODD 3.95
-Vitória Atletico Goianiense GO: ODD 7.00
+Vitória Grêmio RS: ODD 1.65
+Empate: ODD 3.75
+Vitória Atletico Goianiense GO: ODD 5.50
 -----------------------------------
 Serie A (Brasil)
 26 de out 16:30
 [ Palmeiras SP vs Fortaleza CE ]
-Vitória Palmeiras SP: ODD 1.52
-Empate: ODD 4.00
-Vitória Fortaleza CE: ODD 6.90
+Vitória Palmeiras SP: ODD 1.60
+Empate: ODD 3.85
+Vitória Fortaleza CE: ODD 6.00
 -----------------------------------
 Serie A (Brasil)
 26 de out 16:30
 [ Vitória BA vs Fluminense RJ ]
-Vitória Vitória BA: ODD 2.40
-Empate: ODD 3.10
-Vitória Fluminense RJ: ODD 3.20
+Vitória Vitória BA: ODD 2.35
+Empate: ODD 3.25
+Vitória Fluminense RJ: ODD 3.10
 -----------------------------------
 Serie A (Brasil)
 26 de out 18:30
 [ Athlético Paranaense PR vs Cruzeiro MG ]
 Vitória Athlético Paranaense PR: ODD 2.30
-Empate: ODD 3.15
+Empate: ODD 3.20
 Vitória Cruzeiro MG: ODD 3.35
 -----------------------------------
 Serie A (Brasil)
 26 de out 19:00
 [ Atlético MG vs Internacional RS ]
-Vitória Atlético MG: ODD 2.40
-Empate: ODD 3.25
-Vitória Internacional RS: ODD 3.10
+Vitória Atlético MG: ODD 2.60
+Empate: ODD 3.20
+Vitória Internacional RS: ODD 2.80
 -----------------------------------
 Serie A (Brasil)
 26 de out 19:00
 [ Bragantino vs Botafogo-RJ ]
-Vitória Bragantino: ODD 3.55
-Empate: ODD 3.40
-Vitória Botafogo-RJ: ODD 2.10
+Vitória Bragantino: ODD 3.45
+Empate: ODD 3.35
+Vitória Botafogo-RJ: ODD 2.15
 -----------------------------------
 Serie A (Brasil)
 26 de out 19:00
 [ Flamengo RJ vs Juventude RS ]
-Vitória Flamengo RJ: ODD 1.35
-Empate: ODD 5.00
-Vitória Juventude RS: ODD 9.10
+Vitória Flamengo RJ: ODD 1.47
+Empate: ODD 4.35
+Vitória Juventude RS: ODD 7.00
 -----------------------------------
 Serie A (Brasil)
 26 de out 21:00
 [ Criciúma SC vs São Paulo SP ]
-Vitória Criciúma SC: ODD 2.95
+Vitória Criciúma SC: ODD 2.80
 Empate: ODD 3.35
-Vitória São Paulo SP: ODD 2.45
+Vitória São Paulo SP: ODD 2.55
 -----------------------------------
 Serie A (Brasil)
 28 de out 19:00
 [ Cuiabá MT vs Corinthians SP ]
-Vitória Cuiabá MT: ODD 2.70
+Vitória Cuiabá MT: ODD 2.55
 Empate: ODD 3.25
-Vitória Corinthians SP: ODD 2.70
+Vitória Corinthians SP: ODD 2.85
 -----------------------------------
 Serie A (Brasil)
 28 de out 21:00
@@ -155,7 +155,7 @@ Empate: ODD 3.45
 Vitória Bahia BA: ODD 3.10
 -----------------------------------
 Copa do Brasil (Brasil)
-19 de out 18:30
+sáb 18:30
 [ Vasco da Gama RJ vs Atlético MG ]
 Vitória Vasco da Gama RJ: ODD 2.50
 Empate: ODD 3.25
@@ -192,7 +192,1196 @@ Vitória River Plate: ODD 3.35
 Copa Libertadores (América do Sul)
 23 de out 21:30
 [ Botafogo-RJ vs Penarol Montevideo ]
-Vitória Botafogo-RJ: ODD 1.48
+Vitória Botafogo-RJ: ODD 1.45
+Empate: ODD 4.00
+Vitória Penarol Montevideo: ODD 7.60
+-----------------------------------
+
+EUROPA ( NOVIBET )
+
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 13:45
+[ AC Milan vs Club Brugge ]
+Vitória AC Milan: ODD 1.50
+Empate: ODD 4.45
+Vitória Club Brugge: ODD 6.10
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 13:45
+[ Monaco vs Estrela Vermelha ]
+Vitória Monaco: ODD 1.36
+Empate: ODD 5.30
+Vitória Estrela Vermelha: ODD 7.70
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 16:00
+[ Arsenal vs Shakhtar Donetsk ]
+Vitória Arsenal: ODD 1.09
+Empate: ODD 9.60
+Vitória Shakhtar Donetsk: ODD 29.00
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 16:00
+[ Aston Villa vs Bologna ]
+Vitória Aston Villa: ODD 1.56
+Empate: ODD 4.15
+Vitória Bologna: ODD 5.80
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 16:00
+[ Girona vs Slovan Bratislava ]
+Vitória Girona: ODD 1.19
+Empate: ODD 7.50
+Vitória Slovan Bratislava: ODD 13.00
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 16:00
+[ Juventus vs VfB Stuttgart ]
+Vitória Juventus: ODD 1.77
+Empate: ODD 3.85
+Vitória VfB Stuttgart: ODD 4.40
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 16:00
+[ Paris Saint Germain vs PSV Eindhoven ]
+Vitória Paris Saint Germain: ODD 1.54
+Empate: ODD 4.55
+Vitória PSV Eindhoven: ODD 5.50
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 16:00
+[ Real Madrid vs Borussia Dortmund ]
+Vitória Real Madrid: ODD 1.50
+Empate: ODD 4.75
+Vitória Borussia Dortmund: ODD 5.70
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+22 de out 16:00
+[ Sturm Graz vs Sporting Lisboa ]
+Vitória Sturm Graz: ODD 7.60
+Empate: ODD 5.05
+Vitória Sporting Lisboa: ODD 1.38
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 13:45
+[ Atalanta vs Celtic ]
+Vitória Atalanta: ODD 1.47
+Empate: ODD 4.80
+Vitória Celtic: ODD 6.00
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 13:45
+[ Brest vs Bayer Leverkusen ]
+Vitória Brest: ODD 6.00
+Empate: ODD 4.70
+Vitória Bayer Leverkusen: ODD 1.48
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 16:00
+[ Atletico Madrid vs Lille OSC ]
+Vitória Atletico Madrid: ODD 1.44
+Empate: ODD 4.65
+Vitória Lille OSC: ODD 7.10
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 16:00
+[ Barcelona vs Bayern Munich ]
+Vitória Barcelona: ODD 2.20
+Empate: ODD 3.80
+Vitória Bayern Munich: ODD 2.95
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 16:00
+[ Benfica vs Feyenoord ]
+Vitória Benfica: ODD 1.60
+Empate: ODD 4.15
+Vitória Feyenoord: ODD 5.35
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 16:00
+[ Manchester City vs AC Sparta Prague ]
+Vitória Manchester City: ODD 1.09
+Empate: ODD 9.40
+Vitória AC Sparta Prague: ODD 37.00
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 16:00
+[ RB Leipzig vs Liverpool ]
+Vitória RB Leipzig: ODD 3.90
+Empate: ODD 3.80
+Vitória Liverpool: ODD 1.89
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 16:00
+[ Red Bull Salzburg vs Dinamo Zagreb ]
+Vitória Red Bull Salzburg: ODD 1.71
+Empate: ODD 4.05
+Vitória Dinamo Zagreb: ODD 4.50
+-----------------------------------
+UEFA Liga dos Campeões (Liga dos Campeões)
+23 de out 16:00
+[ Young Boys vs Inter ]
+Vitória Young Boys: ODD 7.10
+Empate: ODD 4.95
+Vitória Inter: ODD 1.41
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 11:30
+[ Vikingur Reykjavik vs Cercle Brugge ]
+Vitória Vikingur Reykjavik: ODD 4.40
+Empate: ODD 4.00
+Vitória Cercle Brugge: ODD 1.71
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ APOEL Nicosia vs Borac Banja Luka ]
+Vitória APOEL Nicosia: ODD 1.51
+Empate: ODD 3.95
+Vitória Borac Banja Luka: ODD 6.80
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ Djurgarden vs Vitória Guimaraes ]
+Vitória Djurgarden: ODD 2.80
+Empate: ODD 3.40
+Vitória Vitória Guimaraes: ODD 2.45
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ Hearts vs Omonia Nicosia ]
+Vitória Hearts: ODD 2.02
+Empate: ODD 3.50
+Vitória Omonia Nicosia: ODD 3.60
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ Jagiellonia Bialystok vs FC Petrocub ]
+Vitória Jagiellonia Bialystok: ODD 1.46
+Empate: ODD 4.30
+Vitória FC Petrocub: ODD 5.70
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ KAA Gent vs Molde FK ]
+Vitória KAA Gent: ODD 1.75
 Empate: ODD 3.90
-Vitória Penarol Montevideo: ODD 7.10
+Vitória Molde FK: ODD 4.30
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ Larne FC vs Shamrock Rovers ]
+Vitória Larne FC: ODD 2.70
+Empate: ODD 3.60
+Vitória Shamrock Rovers: ODD 2.40
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ NK Celje vs Istanbul Basaksehir FK ]
+Vitória NK Celje: ODD 2.80
+Empate: ODD 3.55
+Vitória Istanbul Basaksehir FK: ODD 2.35
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ Panathinaikos vs Chelsea ]
+Vitória Panathinaikos: ODD 4.55
+Empate: ODD 3.65
+Vitória Chelsea: ODD 1.79
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ SK Rapid Vienna vs FC Noah ]
+Vitória SK Rapid Vienna: ODD 1.44
+Empate: ODD 4.50
+Vitória FC Noah: ODD 7.00
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 13:45
+[ St. Gallen vs Fiorentina ]
+Vitória St. Gallen: ODD 3.75
+Empate: ODD 3.90
+Vitória Fiorentina: ODD 1.86
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 16:00
+[ Backa Topola vs Legia Warsaw ]
+Vitória Backa Topola: ODD 2.90
+Empate: ODD 3.65
+Vitória Legia Warsaw: ODD 2.30
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 16:00
+[ Betis vs FC Kopenhagen ]
+Vitória Betis: ODD 1.53
+Empate: ODD 4.10
+Vitória FC Kopenhagen: ODD 6.10
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 16:00
+[ HJK Helsinki vs Dinamo Minsk ]
+Vitória HJK Helsinki: ODD 2.15
+Empate: ODD 3.50
+Vitória Dinamo Minsk: ODD 3.30
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 16:00
+[ Mlada Boleslav vs Lugano ]
+Vitória Mlada Boleslav: ODD 2.85
+Empate: ODD 3.35
+Vitória Lugano: ODD 2.45
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 16:00
+[ NK Olimpija Ljubljana vs LASK Linz ]
+Vitória NK Olimpija Ljubljana: ODD 2.75
+Empate: ODD 3.50
+Vitória LASK Linz: ODD 2.45
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 16:00
+[ Pafos FC vs FC Heidenheim ]
+Vitória Pafos FC: ODD 3.70
+Empate: ODD 3.65
+Vitória FC Heidenheim: ODD 1.93
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+24 de out 16:00
+[ The New Saints vs Astana ]
+Vitória The New Saints: ODD 4.35
+Empate: ODD 3.85
+Vitória Astana: ODD 1.75
+-----------------------------------
+UEFA Liga de Conferência (Conference League)
+7 de nov 17:00
+[ Djurgarden vs Panathinaikos ]
+Vitória Djurgarden: ODD 2.80
+Empate: ODD 3.35
+Vitória Panathinaikos: ODD 2.55
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+23 de out 11:30
+[ Galatasaray vs Elfsborg ]
+Vitória Galatasaray: ODD 1.25
+Empate: ODD 5.90
+Vitória Elfsborg: ODD 11.00
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+23 de out 11:30
+[ Sporting Braga vs Bodo/Glimt ]
+Vitória Sporting Braga: ODD 1.86
+Empate: ODD 3.85
+Vitória Bodo/Glimt: ODD 3.75
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 13:45
+[ AS Roma vs Dynamo Kyiv ]
+Vitória AS Roma: ODD 1.51
+Empate: ODD 4.20
+Vitória Dynamo Kyiv: ODD 6.20
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 13:45
+[ Eintracht Frankfurt vs Rigas Futbola Skola ]
+Vitória Eintracht Frankfurt: ODD 1.10
+Empate: ODD 8.30
+Vitória Rigas Futbola Skola: ODD 27.00
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 13:45
+[ Ferencvaros vs Nice ]
+Vitória Ferencvaros: ODD 3.70
+Empate: ODD 3.75
+Vitória Nice: ODD 1.91
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 13:45
+[ FK Qarabag vs Ajax ]
+Vitória FK Qarabag: ODD 3.10
+Empate: ODD 3.60
+Vitória Ajax: ODD 2.15
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 13:45
+[ Maccabi Tel-Aviv vs Real Sociedad ]
+Vitória Maccabi Tel-Aviv: ODD 5.45
+Empate: ODD 3.75
+Vitória Real Sociedad: ODD 1.63
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 13:45
+[ Midtjylland vs Union Saint-Gilloise ]
+Vitória Midtjylland: ODD 2.10
+Empate: ODD 3.65
+Vitória Union Saint-Gilloise: ODD 3.20
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 13:45
+[ PAOK Thessaloniki vs FK Viktoria Plzen ]
+Vitória PAOK Thessaloniki: ODD 1.87
+Empate: ODD 3.80
+Vitória FK Viktoria Plzen: ODD 3.80
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ Anderlecht vs Ludogorets Razgrad ]
+Vitória Anderlecht: ODD 1.82
+Empate: ODD 3.85
+Vitória Ludogorets Razgrad: ODD 3.95
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ Athletic Bilbao vs SK Slavia Prague ]
+Vitória Athletic Bilbao: ODD 1.67
+Empate: ODD 4.00
+Vitória SK Slavia Prague: ODD 4.70
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ FC Porto vs Hoffenheim ]
+Vitória FC Porto: ODD 1.64
+Empate: ODD 4.10
+Vitória Hoffenheim: ODD 4.75
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ Fenerbahce vs Manchester United ]
+Vitória Fenerbahce: ODD 2.85
+Empate: ODD 3.75
+Vitória Manchester United: ODD 2.25
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ Malmo vs Olympiacos ]
+Vitória Malmo: ODD 2.50
+Empate: ODD 3.50
+Vitória Olympiacos: ODD 2.65
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ Olympique Lyonnais vs Besiktas ]
+Vitória Olympique Lyonnais: ODD 1.67
+Empate: ODD 4.00
+Vitória Besiktas: ODD 4.70
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ Rangers vs FCSB ]
+Vitória Rangers: ODD 1.69
+Empate: ODD 3.85
+Vitória FCSB: ODD 4.75
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ Tottenham vs AZ Alkmaar ]
+Vitória Tottenham: ODD 1.46
+Empate: ODD 4.65
+Vitória AZ Alkmaar: ODD 6.20
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+24 de out 16:00
+[ Twente vs Lazio ]
+Vitória Twente: ODD 2.85
+Empate: ODD 3.70
+Vitória Lazio: ODD 2.25
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+7 de nov 14:45
+[ Olympiacos vs Rangers ]
+Vitória Olympiacos: ODD 1.84
+Empate: ODD 3.60
+Vitória Rangers: ODD 4.35
+-----------------------------------
+UEFA Liga Europa (Liga Europa)
+7 de nov 17:00
+[ Manchester United vs PAOK Thessaloniki ]
+Vitória Manchester United: ODD 1.26
+Empate: ODD 5.90
+Vitória PAOK Thessaloniki: ODD 11.50
+-----------------------------------
+Premier League (Inglaterra)
+sáb 08:30
+[ Tottenham vs West Ham ]
+Vitória Tottenham: ODD 1.52
+Empate: ODD 4.95
+Vitória West Ham: ODD 5.25
+-----------------------------------
+Premier League (Inglaterra)
+sáb 11:00
+[ Fulham vs Aston Villa ]
+Vitória Fulham: ODD 2.35
+Empate: ODD 3.50
+Vitória Aston Villa: ODD 2.90
+-----------------------------------
+Premier League (Inglaterra)
+sáb 11:00
+[ Ipswich vs Everton ]
+Vitória Ipswich: ODD 2.40
+Empate: ODD 3.30
+Vitória Everton: ODD 3.00
+-----------------------------------
+Premier League (Inglaterra)
+sáb 11:00
+[ Manchester United vs Brentford ]
+Vitória Manchester United: ODD 1.66
+Empate: ODD 4.30
+Vitória Brentford: ODD 4.65
+-----------------------------------
+Premier League (Inglaterra)
+sáb 11:00
+[ Newcastle vs Brighton ]
+Vitória Newcastle: ODD 1.96
+Empate: ODD 3.95
+Vitória Brighton: ODD 3.45
+-----------------------------------
+Premier League (Inglaterra)
+sáb 11:00
+[ Southampton vs Leicester ]
+Vitória Southampton: ODD 2.40
+Empate: ODD 3.45
+Vitória Leicester: ODD 2.95
+-----------------------------------
+Premier League (Inglaterra)
+sáb 13:30
+[ Bournemouth vs Arsenal ]
+Vitória Bournemouth: ODD 4.80
+Empate: ODD 4.00
+Vitória Arsenal: ODD 1.69
+-----------------------------------
+Premier League (Inglaterra)
+dom 10:00
+[ Wolves vs Manchester City ]
+Vitória Wolves: ODD 10.00
+Empate: ODD 6.60
+Vitória Manchester City: ODD 1.25
+-----------------------------------
+Premier League (Inglaterra)
+dom 12:30
+[ Liverpool vs Chelsea ]
+Vitória Liverpool: ODD 1.64
+Empate: ODD 4.40
+Vitória Chelsea: ODD 4.70
+-----------------------------------
+Premier League (Inglaterra)
+21 de out 16:00
+[ Nottingham Forest vs Crystal Palace ]
+Vitória Nottingham Forest: ODD 2.35
+Empate: ODD 3.40
+Vitória Crystal Palace: ODD 3.05
+-----------------------------------
+Premier League (Inglaterra)
+25 de out 16:00
+[ Leicester vs Nottingham Forest ]
+Vitória Leicester: ODD 2.50
+Empate: ODD 3.45
+Vitória Nottingham Forest: ODD 2.75
+-----------------------------------
+Premier League (Inglaterra)
+26 de out 11:00
+[ Aston Villa vs Bournemouth ]
+Vitória Aston Villa: ODD 1.84
+Empate: ODD 3.90
+Vitória Bournemouth: ODD 3.95
+-----------------------------------
+Premier League (Inglaterra)
+26 de out 11:00
+[ Brentford vs Ipswich ]
+Vitória Brentford: ODD 1.72
+Empate: ODD 4.15
+Vitória Ipswich: ODD 4.35
+-----------------------------------
+Premier League (Inglaterra)
+26 de out 11:00
+[ Brighton vs Wolves ]
+Vitória Brighton: ODD 1.54
+Empate: ODD 4.45
+Vitória Wolves: ODD 5.60
+-----------------------------------
+Premier League (Inglaterra)
+26 de out 11:00
+[ Manchester City vs Southampton ]
+Vitória Manchester City: ODD 1.11
+Empate: ODD 9.00
+Vitória Southampton: ODD 25.00
+-----------------------------------
+Premier League (Inglaterra)
+26 de out 13:30
+[ Everton vs Fulham ]
+Vitória Everton: ODD 2.70
+Empate: ODD 3.35
+Vitória Fulham: ODD 2.60
+-----------------------------------
+Premier League (Inglaterra)
+27 de out 11:00
+[ Chelsea vs Newcastle ]
+Vitória Chelsea: ODD 1.87
+Empate: ODD 4.05
+Vitória Newcastle: ODD 3.75
+-----------------------------------
+Premier League (Inglaterra)
+27 de out 11:00
+[ Crystal Palace vs Tottenham ]
+Vitória Crystal Palace: ODD 3.40
+Empate: ODD 3.65
+Vitória Tottenham: ODD 2.07
+-----------------------------------
+Premier League (Inglaterra)
+27 de out 11:00
+[ West Ham vs Manchester United ]
+Vitória West Ham: ODD 2.85
+Empate: ODD 3.65
+Vitória Manchester United: ODD 2.35
+-----------------------------------
+Premier League (Inglaterra)
+27 de out 13:30
+[ Arsenal vs Liverpool ]
+Vitória Arsenal: ODD 2.20
+Empate: ODD 3.45
+Vitória Liverpool: ODD 3.30
+-----------------------------------
+FA Cup (Inglaterra)
+ter 15:45
+[ Boston United vs Gainsborough ]
+Vitória Boston United: ODD 1.52
+Empate: ODD 4.00
+Vitória Gainsborough: ODD 5.45
+-----------------------------------
+FA Cup (Inglaterra)
+ter 15:45
+[ Brackley Town vs Hartlepool ]
+Vitória Brackley Town: ODD 2.80
+Empate: ODD 3.30
+Vitória Hartlepool: ODD 2.35
+-----------------------------------
+FA Cup (Inglaterra)
+ter 15:45
+[ Gateshead vs Hednesford ]
+Vitória Gateshead: ODD 1.17
+Empate: ODD 6.10
+Vitória Hednesford: ODD 13.50
+-----------------------------------
+FA Cup (Inglaterra)
+ter 15:45
+[ Maidenhead vs Taunton Town FC ]
+Vitória Maidenhead: ODD 1.43
+Empate: ODD 4.15
+Vitória Taunton Town FC: ODD 6.60
+-----------------------------------
+FA Cup (Inglaterra)
+ter 15:45
+[ Peterborough Sports FC vs Rushall Olympic ]
+Vitória Peterborough Sports FC: ODD 2.15
+Empate: ODD 3.25
+Vitória Rushall Olympic: ODD 3.15
+-----------------------------------
+FA Cup (Inglaterra)
+ter 15:45
+[ Solihull vs Altrincham ]
+Vitória Solihull: ODD 1.90
+Empate: ODD 3.45
+Vitória Altrincham: ODD 3.60
+-----------------------------------
+Serie A (Itália)
+sáb 10:00
+[ Como 1907 vs Parma ]
+Vitória Como 1907: ODD 1.94
+Empate: ODD 3.75
+Vitória Parma: ODD 3.70
+-----------------------------------
+Serie A (Itália)
+sáb 10:00
+[ Genoa vs Bologna ]
+Vitória Genoa: ODD 3.20
+Empate: ODD 3.25
+Vitória Bologna: ODD 2.30
+-----------------------------------
+Serie A (Itália)
+sáb 13:00
+[ AC Milan vs Udinese Calcio ]
+Vitória AC Milan: ODD 1.38
+Empate: ODD 5.10
+Vitória Udinese Calcio: ODD 7.60
+-----------------------------------
+Serie A (Itália)
+sáb 15:45
+[ Juventus vs Lazio ]
+Vitória Juventus: ODD 2.02
+Empate: ODD 3.25
+Vitória Lazio: ODD 4.05
+-----------------------------------
+Serie A (Itália)
+dom 07:30
+[ Empoli vs Napoli ]
+Vitória Empoli: ODD 5.50
+Empate: ODD 3.65
+Vitória Napoli: ODD 1.68
+-----------------------------------
+Serie A (Itália)
+dom 10:00
+[ Lecce vs Fiorentina ]
+Vitória Lecce: ODD 3.05
+Empate: ODD 3.30
+Vitória Fiorentina: ODD 2.40
+-----------------------------------
+Serie A (Itália)
+dom 10:00
+[ Venezia vs Atalanta ]
+Vitória Venezia: ODD 5.10
+Empate: ODD 3.95
+Vitória Atalanta: ODD 1.66
+-----------------------------------
+Serie A (Itália)
+dom 13:00
+[ Cagliari vs Torino ]
+Vitória Cagliari: ODD 2.85
+Empate: ODD 3.20
+Vitória Torino: ODD 2.60
+-----------------------------------
+Serie A (Itália)
+20 de out 15:45
+[ AS Roma vs Inter ]
+Vitória AS Roma: ODD 4.00
+Empate: ODD 3.75
+Vitória Inter: ODD 1.88
+-----------------------------------
+Serie A (Itália)
+21 de out 15:45
+[ Hellas Verona vs Monza ]
+Vitória Hellas Verona: ODD 2.30
+Empate: ODD 3.05
+Vitória Monza: ODD 3.50
+-----------------------------------
+Serie A (Itália)
+25 de out 13:30
+[ Udinese Calcio vs Cagliari ]
+Vitória Udinese Calcio: ODD 1.96
+Empate: ODD 3.60
+Vitória Cagliari: ODD 3.75
+-----------------------------------
+Serie A (Itália)
+25 de out 15:45
+[ Torino vs Como 1907 ]
+Vitória Torino: ODD 2.02
+Empate: ODD 3.55
+Vitória Como 1907: ODD 3.65
+-----------------------------------
+Serie A (Itália)
+26 de out 10:00
+[ Napoli vs Lecce ]
+Vitória Napoli: ODD 1.36
+Empate: ODD 5.05
+Vitória Lecce: ODD 8.50
+-----------------------------------
+Serie A (Itália)
+26 de out 13:00
+[ Bologna vs AC Milan ]
+Vitória Bologna: ODD 3.55
+Empate: ODD 3.65
+Vitória AC Milan: ODD 2.02
+-----------------------------------
+Serie A (Itália)
+26 de out 15:45
+[ Atalanta vs Hellas Verona ]
+Vitória Atalanta: ODD 1.42
+Empate: ODD 4.75
+Vitória Hellas Verona: ODD 7.30
+-----------------------------------
+Serie A (Itália)
+27 de out 07:30
+[ Parma vs Empoli ]
+Vitória Parma: ODD 2.01
+Empate: ODD 3.40
+Vitória Empoli: ODD 3.85
+-----------------------------------
+Serie A (Itália)
+27 de out 11:00
+[ Lazio vs Genoa ]
+Vitória Lazio: ODD 1.61
+Empate: ODD 4.00
+Vitória Genoa: ODD 5.50
+-----------------------------------
+Serie A (Itália)
+27 de out 11:00
+[ Monza vs Venezia ]
+Vitória Monza: ODD 2.30
+Empate: ODD 3.25
+Vitória Venezia: ODD 3.30
+-----------------------------------
+Serie A (Itália)
+27 de out 13:00
+[ Inter vs Juventus ]
+Vitória Inter: ODD 1.69
+Empate: ODD 3.65
+Vitória Juventus: ODD 5.40
+-----------------------------------
+Serie A (Itália)
+27 de out 15:45
+[ Fiorentina vs AS Roma ]
+Vitória Fiorentina: ODD 2.45
+Empate: ODD 3.35
+Vitória AS Roma: ODD 2.90
+-----------------------------------
+Bundesliga (Alemanha)
+sex 15:30
+[ Borussia Dortmund vs St. Pauli ]
+Vitória Borussia Dortmund: ODD 1.29
+Empate: ODD 5.70
+Vitória St. Pauli: ODD 9.80
+-----------------------------------
+Bundesliga (Alemanha)
+sáb 10:30
+[ Bayer Leverkusen vs Eintracht Frankfurt ]
+Vitória Bayer Leverkusen: ODD 1.41
+Empate: ODD 5.30
+Vitória Eintracht Frankfurt: ODD 6.60
+-----------------------------------
+Bundesliga (Alemanha)
+sáb 10:30
+[ Borussia Monchengladbach vs FC Heidenheim ]
+Vitória Borussia Monchengladbach: ODD 1.86
+Empate: ODD 3.75
+Vitória FC Heidenheim: ODD 4.05
+-----------------------------------
+Bundesliga (Alemanha)
+sáb 10:30
+[ Freiburg vs FC Augsburg ]
+Vitória Freiburg: ODD 1.71
+Empate: ODD 3.85
+Vitória FC Augsburg: ODD 4.85
+-----------------------------------
+Bundesliga (Alemanha)
+sáb 10:30
+[ Hoffenheim vs Bochum ]
+Vitória Hoffenheim: ODD 1.64
+Empate: ODD 4.35
+Vitória Bochum: ODD 4.70
+-----------------------------------
+Bundesliga (Alemanha)
+sáb 10:30
+[ Mainz 05 vs RB Leipzig ]
+Vitória Mainz 05: ODD 4.05
+Empate: ODD 3.85
+Vitória RB Leipzig: ODD 1.84
+-----------------------------------
+Bundesliga (Alemanha)
+sáb 13:30
+[ Bayern Munich vs VfB Stuttgart ]
+Vitória Bayern Munich: ODD 1.36
+Empate: ODD 5.80
+Vitória VfB Stuttgart: ODD 7.00
+-----------------------------------
+Bundesliga (Alemanha)
+dom 10:30
+[ Holstein Kiel vs Union Berlin ]
+Vitória Holstein Kiel: ODD 3.55
+Empate: ODD 3.45
+Vitória Union Berlin: ODD 2.08
+-----------------------------------
+Bundesliga (Alemanha)
+dom 12:30
+[ Wolfsburg vs Werder Bremen ]
+Vitória Wolfsburg: ODD 2.02
+Empate: ODD 3.65
+Vitória Werder Bremen: ODD 3.55
+-----------------------------------
+Bundesliga (Alemanha)
+25 de out 15:30
+[ Mainz 05 vs Borussia Monchengladbach ]
+Vitória Mainz 05: ODD 2.15
+Empate: ODD 3.75
+Vitória Borussia Monchengladbach: ODD 3.15
+-----------------------------------
+Bundesliga (Alemanha)
+26 de out 10:30
+[ FC Augsburg vs Borussia Dortmund ]
+Vitória FC Augsburg: ODD 3.75
+Empate: ODD 4.00
+Vitória Borussia Dortmund: ODD 1.87
+-----------------------------------
+Bundesliga (Alemanha)
+26 de out 10:30
+[ RB Leipzig vs Freiburg ]
+Vitória RB Leipzig: ODD 1.56
+Empate: ODD 4.45
+Vitória Freiburg: ODD 5.30
+-----------------------------------
+Bundesliga (Alemanha)
+26 de out 10:30
+[ St. Pauli vs Wolfsburg ]
+Vitória St. Pauli: ODD 2.65
+Empate: ODD 3.45
+Vitória Wolfsburg: ODD 2.65
+-----------------------------------
+Bundesliga (Alemanha)
+26 de out 10:30
+[ VfB Stuttgart vs Holstein Kiel ]
+Vitória VfB Stuttgart: ODD 1.25
+Empate: ODD 6.50
+Vitória Holstein Kiel: ODD 10.25
+-----------------------------------
+Bundesliga (Alemanha)
+26 de out 13:30
+[ Werder Bremen vs Bayer Leverkusen ]
+Vitória Werder Bremen: ODD 4.95
+Empate: ODD 4.80
+Vitória Bayer Leverkusen: ODD 1.56
+-----------------------------------
+Bundesliga (Alemanha)
+27 de out 11:30
+[ Bochum vs Bayern Munich ]
+Vitória Bochum: ODD 12.00
+Empate: ODD 7.10
+Vitória Bayern Munich: ODD 1.21
+-----------------------------------
+Bundesliga (Alemanha)
+27 de out 13:30
+[ Union Berlin vs Eintracht Frankfurt ]
+Vitória Union Berlin: ODD 2.60
+Empate: ODD 3.35
+Vitória Eintracht Frankfurt: ODD 2.70
+-----------------------------------
+Bundesliga (Alemanha)
+27 de out 15:30
+[ FC Heidenheim vs Hoffenheim ]
+Vitória FC Heidenheim: ODD 2.10
+Empate: ODD 3.65
+Vitória Hoffenheim: ODD 3.30
+-----------------------------------
+Ligue 1 (França)
+sex 15:45
+[ Monaco vs Lille OSC ]
+Vitória Monaco: ODD 1.96
+Empate: ODD 3.70
+Vitória Lille OSC: ODD 3.65
+-----------------------------------
+Ligue 1 (França)
+sáb 12:00
+[ Brest vs Rennes ]
+Vitória Brest: ODD 2.95
+Empate: ODD 3.20
+Vitória Rennes: ODD 2.50
+-----------------------------------
+Ligue 1 (França)
+sáb 14:00
+[ St. Etienne vs Lens ]
+Vitória St. Etienne: ODD 5.05
+Empate: ODD 3.90
+Vitória Lens: ODD 1.68
+-----------------------------------
+Ligue 1 (França)
+sáb 16:00
+[ Paris Saint Germain vs Strasbourg ]
+Vitória Paris Saint Germain: ODD 1.30
+Empate: ODD 6.00
+Vitória Strasbourg: ODD 8.40
+-----------------------------------
+Ligue 1 (França)
+dom 10:00
+[ Le Havre vs Olympique Lyonnais ]
+Vitória Le Havre: ODD 3.75
+Empate: ODD 3.60
+Vitória Olympique Lyonnais: ODD 1.98
+-----------------------------------
+Ligue 1 (França)
+dom 12:00
+[ Auxerre vs Reims ]
+Vitória Auxerre: ODD 2.60
+Empate: ODD 3.50
+Vitória Reims: ODD 2.65
+-----------------------------------
+Ligue 1 (França)
+dom 12:00
+[ Nantes vs Nice ]
+Vitória Nantes: ODD 3.20
+Empate: ODD 3.15
+Vitória Nice: ODD 2.40
+-----------------------------------
+Ligue 1 (França)
+dom 12:00
+[ Toulouse vs Angers ]
+Vitória Toulouse: ODD 1.54
+Empate: ODD 4.05
+Vitória Angers: ODD 6.50
+-----------------------------------
+Ligue 1 (França)
+20 de out 15:45
+[ Montpellier vs Olympique de Marselha ]
+Vitória Montpellier: ODD 4.35
+Empate: ODD 4.10
+Vitória Olympique de Marselha: ODD 1.73
+-----------------------------------
+Ligue 1 (França)
+25 de out 15:45
+[ Rennes vs Le Havre ]
+Vitória Rennes: ODD 1.64
+Empate: ODD 4.15
+Vitória Le Havre: ODD 4.95
+-----------------------------------
+Ligue 1 (França)
+26 de out 12:00
+[ Angers vs St. Etienne ]
+Vitória Angers: ODD 2.75
+Empate: ODD 3.30
+Vitória St. Etienne: ODD 2.60
+-----------------------------------
+Ligue 1 (França)
+26 de out 14:00
+[ Reims vs Brest ]
+Vitória Reims: ODD 2.30
+Empate: ODD 3.40
+Vitória Brest: ODD 3.15
+-----------------------------------
+Ligue 1 (França)
+26 de out 16:00
+[ Lens vs Lille OSC ]
+Vitória Lens: ODD 2.40
+Empate: ODD 3.25
+Vitória Lille OSC: ODD 3.05
+-----------------------------------
+Ligue 1 (França)
+27 de out 10:00
+[ Olympique Lyonnais vs Auxerre ]
+Vitória Olympique Lyonnais: ODD 1.73
+Empate: ODD 3.95
+Vitória Auxerre: ODD 4.55
+-----------------------------------
+Ligue 1 (França)
+27 de out 13:00
+[ Montpellier vs Toulouse ]
+Vitória Montpellier: ODD 2.65
+Empate: ODD 3.30
+Vitória Toulouse: ODD 2.65
+-----------------------------------
+Ligue 1 (França)
+27 de out 13:00
+[ Nice vs Monaco ]
+Vitória Nice: ODD 3.00
+Empate: ODD 3.35
+Vitória Monaco: ODD 2.40
+-----------------------------------
+Ligue 1 (França)
+27 de out 13:00
+[ Strasbourg vs Nantes ]
+Vitória Strasbourg: ODD 2.15
+Empate: ODD 3.30
+Vitória Nantes: ODD 3.55
+-----------------------------------
+
+SELEÇÕES ( NOVIBET )
+
+UEFA Liga das Nações (Europa)
+em 43'
+[ Alemanha vs Holanda ]
+Vitória Alemanha: ODD 1.92
+Empate: ODD 3.95
+Vitória Holanda: ODD 4.00
+-----------------------------------
+UEFA Liga das Nações (Europa)
+em 43'
+[ Bélgica vs França ]
+Vitória Bélgica: ODD 3.25
+Empate: ODD 3.40
+Vitória França: ODD 2.40
+-----------------------------------
+UEFA Liga das Nações (Europa)
+em 43'
+[ Bósnia & Herzegovina vs Hungria ]
+Vitória Bósnia & Herzegovina: ODD 3.35
+Empate: ODD 3.30
+Vitória Hungria: ODD 2.25
+-----------------------------------
+UEFA Liga das Nações (Europa)
+em 43'
+[ Estônia vs Suécia ]
+Vitória Estônia: ODD 11.50
+Empate: ODD 6.10
+Vitória Suécia: ODD 1.24
+-----------------------------------
+UEFA Liga das Nações (Europa)
+em 43'
+[ Gales vs Montenegro ]
+Vitória Gales: ODD 1.60
+Empate: ODD 4.05
+Vitória Montenegro: ODD 5.60
+-----------------------------------
+UEFA Liga das Nações (Europa)
+em 43'
+[ Islândia vs Turquia ]
+Vitória Islândia: ODD 4.05
+Empate: ODD 3.70
+Vitória Turquia: ODD 1.86
+-----------------------------------
+UEFA Liga das Nações (Europa)
+em 43'
+[ Itália vs Israel ]
+Vitória Itália: ODD 1.20
+Empate: ODD 6.30
+Vitória Israel: ODD 15.75
+-----------------------------------
+UEFA Liga das Nações (Europa)
+em 43'
+[ Ucrânia vs República Tcheca ]
+Vitória Ucrânia: ODD 2.85
+Empate: ODD 3.30
+Vitória República Tcheca: ODD 2.75
+-----------------------------------
+UEFA Liga das Nações (Europa)
+ter 15:45
+[ Bielorrússia vs Luxemburgo ]
+Vitória Bielorrússia: ODD 2.85
+Empate: ODD 2.90
+Vitória Luxemburgo: ODD 2.80
+-----------------------------------
+UEFA Liga das Nações (Europa)
+ter 15:45
+[ Escócia vs Portugal ]
+Vitória Escócia: ODD 5.35
+Empate: ODD 4.20
+Vitória Portugal: ODD 1.59
+-----------------------------------
+UEFA Liga das Nações (Europa)
+ter 15:45
+[ Espanha vs Sérvia ]
+Vitória Espanha: ODD 1.39
+Empate: ODD 4.75
+Vitória Sérvia: ODD 8.20
+-----------------------------------
+UEFA Liga das Nações (Europa)
+ter 15:45
+[ Irlanda do Norte vs Bulgária ]
+Vitória Irlanda do Norte: ODD 1.85
+Empate: ODD 3.35
+Vitória Bulgária: ODD 4.70
+-----------------------------------
+UEFA Liga das Nações (Europa)
+ter 15:45
+[ Kosovo vs Chipre ]
+Vitória Kosovo: ODD 1.32
+Empate: ODD 5.15
+Vitória Chipre: ODD 10.25
+-----------------------------------
+UEFA Liga das Nações (Europa)
+ter 15:45
+[ Lituânia vs Romênia ]
+Vitória Lituânia: ODD 6.20
+Empate: ODD 4.25
+Vitória Romênia: ODD 1.53
+-----------------------------------
+UEFA Liga das Nações (Europa)
+ter 15:45
+[ Polônia vs Croácia ]
+Vitória Polônia: ODD 3.25
+Empate: ODD 3.40
+Vitória Croácia: ODD 2.25
+-----------------------------------
+UEFA Liga das Nações (Europa)
+ter 15:45
+[ Suíça vs Dinamarca ]
+Vitória Suíça: ODD 2.35
+Empate: ODD 3.20
+Vitória Dinamarca: ODD 3.15
+-----------------------------------
+UEFA Liga das Nações (Europa)
+14 de nov 16:45
+[ Grécia vs Inglaterra ]
+Vitória Grécia: ODD 4.25
+Empate: ODD 3.75
+Vitória Inglaterra: ODD 1.82
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 17:30
+[ Colômbia vs Chile ]
+Vitória Colômbia: ODD 1.39
+Empate: ODD 4.50
+Vitória Chile: ODD 9.20
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 20:00
+[ Paraguai vs Venezuela ]
+Vitória Paraguai: ODD 2.01
+Empate: ODD 3.00
+Vitória Venezuela: ODD 4.50
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 20:30
+[ Uruguai vs Equador ]
+Vitória Uruguai: ODD 1.74
+Empate: ODD 3.45
+Vitória Equador: ODD 5.35
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 21:00
+[ Argentina vs Bolívia ]
+Vitória Argentina: ODD 1.06
+Empate: ODD 12.25
+Vitória Bolívia: ODD 33.00
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 21:45
+[ Brasil vs Peru ]
+Vitória Brasil: ODD 1.19
+Empate: ODD 6.60
+Vitória Peru: ODD 16.50
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 07:35
+[ Japão vs Austrália ]
+Vitória Japão: ODD 1.29
+Empate: ODD 5.60
+Vitória Austrália: ODD 9.10
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 08:00
+[ Coreia do Sul vs Iraque ]
+Vitória Coreia do Sul: ODD 1.44
+Empate: ODD 4.20
+Vitória Iraque: ODD 7.70
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 09:00
+[ China vs Indonésia ]
+Vitória China: ODD 3.25
+Empate: ODD 3.30
+Vitória Indonésia: ODD 2.20
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 11:00
+[ Quirguistão vs Coreia do Norte ]
+Vitória Quirguistão: ODD 3.30
+Empate: ODD 3.15
+Vitória Coreia do Norte: ODD 2.30
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 11:00
+[ Uzbequistão vs Emirados Árabes Unidos ]
+Vitória Uzbequistão: ODD 1.63
+Empate: ODD 3.55
+Vitória Emirados Árabes Unidos: ODD 6.10
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 13:00
+[ Irã vs Catar ]
+Vitória Irã: ODD 1.55
+Empate: ODD 3.80
+Vitória Catar: ODD 6.60
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 13:00
+[ Jordânia vs Omã ]
+Vitória Jordânia: ODD 1.84
+Empate: ODD 3.35
+Vitória Omã: ODD 4.55
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 13:00
+[ Palestina vs Kuwait ]
+Vitória Palestina: ODD 1.86
+Empate: ODD 3.20
+Vitória Kuwait: ODD 4.70
+-----------------------------------
+Copa do Mundo 2026 (Mundo)
+ter 15:00
+[ Arábia Saudita vs Barém ]
+Vitória Arábia Saudita: ODD 1.45
+Empate: ODD 4.20
+Vitória Barém: ODD 7.40
 -----------------------------------
