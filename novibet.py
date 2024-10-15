@@ -160,7 +160,7 @@ for url in urls_selecoes:
 driver.quit()
 
 # Salvar o conteúdo em um arquivo de texto
-with open("resultados_novibet.txt", "w", encoding="utf-8") as file:
+with open("novibet.txt", "w", encoding="utf-8") as file:
     file.write(output_content)
 
-print("Arquivo 'resultados_novibet.txt' gerado com sucesso.")
+print("Arquivo 'novibet.txt' gerado com sucesso.")

@@ -1,0 +1,293 @@
+Liga das Nações UEFA
+Data: 15/10/2024
+[ Escócia vs Portugal ]
+Vitória Escócia: ODD 6.00
+Empate: ODD 4.70
+Vitória Portugal: ODD 1.60
+-----------------------------------
+Liga das Nações UEFA
+Data: 15/10/2024
+[ Polónia vs Croácia ]
+Vitória Polónia: ODD 3.00
+Empate: ODD 3.20
+Vitória Croácia: ODD 2.50
+-----------------------------------
+Liga das Nações UEFA
+Data: 15/10/2024
+[ Espanha vs Sérvia ]
+Vitória Espanha: ODD 1.35
+Empate: ODD 5.10
+Vitória Sérvia: ODD 9.00
+-----------------------------------
+Liga das Nações UEFA
+Data: 15/10/2024
+[ Irlanda do Norte vs Bulgária ]
+Vitória Irlanda do Norte: ODD 1.90
+Empate: ODD 3.15
+Vitória Bulgária: ODD 4.70
+-----------------------------------
+Liga das Nações UEFA
+Data: 15/10/2024
+[ Kosovo vs Chipre ]
+Vitória Kosovo: ODD 1.32
+Empate: ODD 5.30
+Vitória Chipre: ODD 8.50
+-----------------------------------
+Liga das Nações UEFA
+Data: 15/10/2024
+[ Suíça vs Dinamarca ]
+Vitória Suíça: ODD 2.15
+Empate: ODD 3.25
+Vitória Dinamarca: ODD 3.55
+-----------------------------------
+Liga das Nações UEFA
+Data: 15/10/2024
+[ Bielorrússia vs Luxemburgo ]
+Vitória Bielorrússia: ODD 2.85
+Empate: ODD 2.80
+Vitória Luxemburgo: ODD 2.85
+-----------------------------------
+Liga das Nações UEFA
+Data: 15/10/2024
+[ Lituânia vs Roménia ]
+Vitória Lituânia: ODD 5.40
+Empate: ODD 3.65
+Vitória Roménia: ODD 1.65
+-----------------------------------
+Campeonato do Mundo - Qualificação CONMEBOL
+Data: 15/10/2024
+[ Colômbia vs Chile ]
+Vitória Colômbia: ODD 1.42
+Empate: ODD 4.90
+Vitória Chile: ODD 11.00
+-----------------------------------
+Campeonato do Mundo - Qualificação CONMEBOL
+Data: 15/10/2024
+[ Paraguai vs Venezuela ]
+Vitória Paraguai: ODD 2.20
+Empate: ODD 3.20
+Vitória Venezuela: ODD 4.30
+-----------------------------------
+Campeonato do Mundo - Qualificação CONMEBOL
+Data: 15/10/2024
+[ Uruguai vs Equador ]
+Vitória Uruguai: ODD 1.83
+Empate: ODD 3.50
+Vitória Equador: ODD 6.00
+-----------------------------------
+Campeonato do Mundo - Qualificação CONMEBOL
+Data: 15/10/2024
+[ Argentina vs Bolívia ]
+Vitória Argentina: ODD 1.10
+Empate: ODD 16.00
+Vitória Bolívia: ODD 40.00
+-----------------------------------
+Campeonato do Mundo - Qualificação CONMEBOL
+Data: 15/10/2024
+[ Brasil vs Perú ]
+Vitória Brasil: ODD 1.24
+Empate: ODD 7.20
+Vitória Perú: ODD 18.00
+-----------------------------------
+Erro ao extrair as datas e os jogos: Message: 
+
+Brasileirão Série A
+Data: 16/10/2024
+[ Fortaleza EC vs Atlético Mineiro ]
+Vitória Fortaleza EC: ODD 1.79
+Empate: ODD 3.55
+Vitória Atlético Mineiro: ODD 5.00
+-----------------------------------
+Brasileirão Série A
+Data: 16/10/2024
+[ Corinthians vs Atlético Paranaense ]
+Vitória Corinthians: ODD 1.75
+Empate: ODD 3.60
+Vitória Atlético Paranaense: ODD 4.70
+-----------------------------------
+Brasileirão Série A
+Data: 16/10/2024
+[ Cruzeiro MG vs EC Bahia ]
+Vitória Cruzeiro MG: ODD 2.19
+Empate: ODD 3.25
+Vitória EC Bahia: ODD 3.40
+-----------------------------------
+Brasileirão Série A
+Data: 17/10/2024
+[ São Paulo FC vs CR Vasco da Gama RJ ]
+Vitória São Paulo FC: ODD 1.76
+Empate: ODD 3.70
+Vitória CR Vasco da Gama RJ: ODD 5.00
+-----------------------------------
+Brasileirão Série A
+Data: 17/10/2024
+[ AC Goianiense vs Cuiaba EC ]
+Vitória AC Goianiense: ODD 2.02
+Empate: ODD 3.25
+Vitória Cuiaba EC: ODD 3.90
+-----------------------------------
+Brasileirão Série A
+Data: 18/10/2024
+[ CR Flamengo vs Fluminense FC ]
+Vitória CR Flamengo: ODD 1.90
+Empate: ODD 3.40
+Vitória Fluminense FC: ODD 4.20
+-----------------------------------
+Brasileirão Série A
+Data: 18/10/2024
+[ Botafogo FR vs Criciúma EC SC ]
+Vitória Botafogo FR: ODD 1.41
+Empate: ODD 4.70
+Vitória Criciúma EC SC: ODD 7.20
+-----------------------------------
+Premier League
+Data: 19/10/2024
+[ Tottenham Hotspur FC vs West Ham United FC ]
+Vitória Tottenham Hotspur FC: ODD 1.51
+Empate: ODD 4.80
+Vitória West Ham United FC: ODD 5.20
+-----------------------------------
+Premier League
+Data: 19/10/2024
+[ Fulham FC vs Aston Villa FC ]
+Vitória Fulham FC: ODD 2.38
+Empate: ODD 3.50
+Vitória Aston Villa FC: ODD 2.85
+-----------------------------------
+Premier League
+Data: 19/10/2024
+[ Manchester United FC vs Brentford FC ]
+Vitória Manchester United FC: ODD 1.65
+Empate: ODD 4.30
+Vitória Brentford FC: ODD 4.60
+-----------------------------------
+Premier League
+Data: 19/10/2024
+[ Ipswich Town FC vs Everton FC ]
+Vitória Ipswich Town FC: ODD 2.37
+Empate: ODD 3.35
+Vitória Everton FC: ODD 2.95
+-----------------------------------
+Premier League
+Data: 19/10/2024
+[ Newcastle United FC vs Brighton & Hove Albion FC ]
+Vitória Newcastle United FC: ODD 1.97
+Empate: ODD 3.85
+Vitória Brighton & Hove Albion FC: ODD 3.40
+-----------------------------------
+Premier League
+Data: 19/10/2024
+[ Southampton FC vs Leicester City FC ]
+Vitória Southampton FC: ODD 2.35
+Empate: ODD 3.45
+Vitória Leicester City FC: ODD 2.90
+-----------------------------------
+Premier League
+Data: 19/10/2024
+[ AFC Bournemouth vs Arsenal FC ]
+Vitória AFC Bournemouth: ODD 4.70
+Empate: ODD 3.95
+Vitória Arsenal FC: ODD 1.68
+-----------------------------------
+La Liga
+Data: 18/10/2024
+[ Deportivo Alavés vs Real Valladolid ]
+Vitória Deportivo Alavés: ODD 1.70
+Empate: ODD 3.80
+Vitória Real Valladolid: ODD 4.80
+-----------------------------------
+La Liga
+Data: 18/10/2024
+[ CA Osasuna vs Real Bétis Balompié ]
+Vitória CA Osasuna: ODD 2.70
+Empate: ODD 3.35
+Vitória Real Bétis Balompié: ODD 2.55
+-----------------------------------
+La Liga
+Data: 19/10/2024
+[ Atlético Bilbao vs RCD Espanhol de Barcelona ]
+Vitória Atlético Bilbao: ODD 1.50
+Empate: ODD 4.20
+Vitória RCD Espanhol de Barcelona: ODD 6.40
+-----------------------------------
+La Liga
+Data: 19/10/2024
+[ Girona FC vs Real Sociedad ]
+Vitória Girona FC: ODD 2.42
+Empate: ODD 3.30
+Vitória Real Sociedad: ODD 2.90
+-----------------------------------
+Série A - Itália
+Data: 19/10/2024
+[ Génova CFC vs Bolonha FC ]
+Vitória Génova CFC: ODD 3.10
+Empate: ODD 3.15
+Vitória Bolonha FC: ODD 2.37
+-----------------------------------
+Série A - Itália
+Data: 19/10/2024
+[ Como 1907 vs Parma Calcio ]
+Vitória Como 1907: ODD 1.91
+Empate: ODD 3.75
+Vitória Parma Calcio: ODD 3.70
+-----------------------------------
+Série A - Itália
+Data: 19/10/2024
+[ AC Milão vs Udinese Calcio ]
+Vitória AC Milão: ODD 1.38
+Empate: ODD 5.00
+Vitória Udinese Calcio: ODD 7.60
+-----------------------------------
+Bundesliga
+Data: 18/10/2024
+[ Borussia Dortmund vs FC St. Pauli ]
+Vitória Borussia Dortmund: ODD 1.29
+Empate: ODD 5.80
+Vitória FC St. Pauli: ODD 9.00
+-----------------------------------
+Bundesliga
+Data: 18/10/2024
+[ FSV Mainz vs RB Leipzig ]
+Vitória FSV Mainz: ODD 4.10
+Empate: ODD 3.85
+Vitória RB Leipzig: ODD 1.81
+-----------------------------------
+Bundesliga
+Data: 18/10/2024
+[ SC Friburgo vs FC Augsburgo ]
+Vitória SC Friburgo: ODD 1.71
+Empate: ODD 3.80
+Vitória FC Augsburgo: ODD 4.70
+-----------------------------------
+Bundesliga
+Data: 18/10/2024
+[ Bayern Munique vs VfB Estugarda ]
+Vitória Bayern Munique: ODD 1.35
+Empate: ODD 5.60
+Vitória VfB Estugarda: ODD 7.00
+-----------------------------------
+Bundesliga
+Data: 19/10/2024
+[ Borussia M´gladbach vs FC Heidenheim ]
+Vitória Borussia M´gladbach: ODD 1.85
+Empate: ODD 3.75
+Vitória FC Heidenheim: ODD 4.00
+-----------------------------------
+Bundesliga
+Data: 19/10/2024
+[ Bayer Leverkusen vs Eintracht Frankfurt ]
+Vitória Bayer Leverkusen: ODD 1.42
+Empate: ODD 5.00
+Vitória Eintracht Frankfurt: ODD 6.20
+-----------------------------------
+Bundesliga
+Data: 19/10/2024
+[ TSG Hoffenheim vs VfL Bochum ]
+Vitória TSG Hoffenheim: ODD 1.67
+Empate: ODD 4.20
+Vitória VfL Bochum: ODD 4.50
+-----------------------------------
+Erro ao extrair as datas e os jogos: Message: 
+
+Erro ao extrair as datas e os jogos: Message: 
+
