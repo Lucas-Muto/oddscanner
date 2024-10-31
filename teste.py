@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 import time
 
 # Caminho para o chromedriver (ajuste conforme necessário)
@@ -21,92 +22,96 @@ service = Service(chromedriver_path)
 # Inicializa o driver do Selenium com as opções definidas
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-# Abrir a página da Betspeed (URL genérica para campeonatos)
-driver.get("https://www.betspeed.com/home/events-area/s/SC?country=WORLD&championship=Liga%20das%20Na%C3%A7%C3%B5es%20UEFA&championshipId=sr:tournament:23755")
+# Função para fechar o modal
+def fechar_modal(driver):
+    try:
+        modal_close_button = WebDriverWait(driver, 5).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "sb-modal__close__btn"))
+        )
+        if modal_close_button:
+            WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.CLASS_NAME, "sb-modal__close__btn"))).click()
+            print("Modal fechado com sucesso.")
+    except (TimeoutException, NoSuchElementException):
+        print("Modal não encontrado ou não apareceu. Seguindo com a navegação.")
 
-# Esperar alguns segundos para garantir que a página carregue
-time.sleep(5)
+# Função para extrair o título do campeonato
+def extrair_titulo_campeonato(driver):
+    try:
+        titulo_elemento = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "h1.tw-font-bold"))
+        )
+        titulo = titulo_elemento.text
+        print(f"Título do campeonato: {titulo}")
+        return titulo
+    except TimeoutException:
+        print("Título do campeonato não encontrado.")
+        return None
 
-# Criar o arquivo de saída
-output_file = open("betspeed.txt", "w", encoding="utf-8")
+# Função para extrair a primeira partida
+def extrair_primeira_partida(driver):
+    try:
+        partida_elemento = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'div[data-qa="participants"]'))
+        )
+        # Localiza o primeiro time
+        time1_elemento = partida_elemento.find_element(By.CSS_SELECTOR, 'div.tw-flex-row.tw-items-center.tw-justify-start.tw-w-full.tw-mb-s .tw-truncate')
+        time1 = time1_elemento.text
+        
+        # Localiza o segundo time
+        time2_elemento = partida_elemento.find_element(By.CSS_SELECTOR, 'div.tw-flex-row.tw-items-center.tw-justify-start.tw-w-full:not(.tw-mb-s) .tw-truncate')
+        time2 = time2_elemento.text
+        
+        print(f"Primeira partida: {time1} vs {time2}")
+        return time1, time2
+    except TimeoutException:
+        print("Primeira partida não encontrada.")
+        return None, None
 
-# Fechar o primeiro modal (aquele com o botão mat-dialog-close)
-try:
-    close_modal_button = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.CSS_SELECTOR, "button[mat-dialog-close]"))
-    )
-    close_modal_button.click()
-    output_file.write("Primeiro modal fechado.\n")
-except Exception as e:
-    output_file.write(f"Erro ao fechar o primeiro modal: {e}\n")
+# Função para extrair data e horário da partida usando XPath
+def extrair_data_horario(driver):
+    try:
+        # Captura a data usando XPath fornecido
+        data_elemento = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="app"]/div/div[2]/section[2]/div[4]/div[2]/div[1]/section/div/div/div/div[2]/div[1]/div[1]/div/div[1]/div/span[1]'))
+        )
+        data = data_elemento.text
+        
+        # Captura o horário usando XPath fornecido
+        horario_elemento = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="app"]/div/div[2]/section[2]/div[4]/div[2]/div[1]/section/div/div/div/div[2]/div[1]/div[1]/div/div[1]/div/span[2]'))
+        )
+        horario = horario_elemento.text
+        
+        print(f"Data: {data}, Horário: {horario}")
+        return data, horario
+    except TimeoutException:
+        print("Data e horário não encontrados pelo XPath.")
+        return None, None
 
-# Fechar o segundo modal (o de cookies)
-try:
-    cookies_button = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.XPATH, "//span[contains(text(), 'Permitir apenas cookies necessários')]"))
-    )
-    cookies_button.click()
-    output_file.write("Modal de cookies fechado.\n")
-except Exception as e:
-    output_file.write(f"Erro ao fechar o modal de cookies: {e}\n")
+# Acessa a URL
+driver.get("https://br.betano.com/sport/futebol/brasil/brasileirao-serie-a-betano/10016/")
 
-# Extrair o título do campeonato
-try:
-    championship_title = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.CSS_SELECTOR, "span.ng-star-inserted[fxlayout='column']"))
-    )
-    output_file.write(f"Título do campeonato: {championship_title.text}\n")
-except Exception as e:
-    output_file.write(f"Erro ao extrair o título do campeonato: {e}\n")
+# Chama a função para fechar o modal
+fechar_modal(driver)
 
-# Extrair as datas dos jogos
-try:
-    match_dates = driver.find_elements(By.XPATH, "//span[@fxlayout='column' and contains(text(),'/')]")
-    for i, date_element in enumerate(match_dates, start=1):
-        date_text = date_element.text
-        output_file.write(f"Data: {date_text}\n")
-except Exception as e:
-    output_file.write(f"Erro ao extrair as datas dos jogos: {e}\n")
+# Extrai o título do campeonato
+titulo_campeonato = extrair_titulo_campeonato(driver)
 
-# Adiciona uma espera explícita para garantir que os jogos tenham carregado
-time.sleep(5)
+# Extrai a primeira partida
+time1, time2 = extrair_primeira_partida(driver)
 
-# Extrair os times dos jogos e as ODDS
-try:
-    match_containers = WebDriverWait(driver, 10).until(
-        EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.event-body.ng-star-inserted"))
-    )
+# Extrai a data e o horário da partida usando XPath
+data, horario = extrair_data_horario(driver)
 
-    for match in match_containers:
-        team1 = match.find_element(By.XPATH, ".//div[contains(@class, 'margin-name-5')]/span").text
-        team2 = match.find_element(By.XPATH, ".//div[contains(@class, 'event-name')]/span").text
+# Exibe o resultado formatado se todos os elementos foram encontrados
+if titulo_campeonato and time1 and time2 and data and horario:
+    print(f"{titulo_campeonato}")
+    print(f"Data: {data} {horario}")
+    print(f"[ {time1} vs {time2} ]")
+    print("-----------------------------------")
 
-        try:
-            odds_container = match.find_element(By.CSS_SELECTOR, "div.odds-area")
-            odds_buttons = odds_container.find_elements(By.CSS_SELECTOR, "button.center")
+# Aguarda alguns segundos para garantir que a navegação foi bem-sucedida
+time.sleep(3)
 
-            if len(odds_buttons) == 3:
-                odd_team1 = odds_buttons[0].find_element(By.XPATH, ".//span").text
-                odd_draw = odds_buttons[1].find_element(By.XPATH, ".//span").text
-                odd_team2 = odds_buttons[2].find_element(By.XPATH, ".//span").text
-
-                # Armazena os dados no arquivo
-                output_file.write(f"[ {team1} vs {team2} ]\n")
-                output_file.write(f"Vitória {team1}: ODD {odd_team1}\n")
-                output_file.write(f"Empate: ODD {odd_draw}\n")
-                output_file.write(f"Vitória {team2}: ODD {odd_team2}\n")
-                output_file.write("-" * 35 + "\n")
-
-        except Exception as e:
-            output_file.write(f"Erro ao extrair as ODDS para o jogo {team1} vs {team2}: {e}\n")
-
-except Exception as e:
-    output_file.write(f"Erro ao extrair os times e ODDS dos jogos: {e}\n")
-
-# Fechar o navegador
+# Fechar o driver após a navegação
 driver.quit()
-
-# Fechar o arquivo
-output_file.close()
-
-print("Arquivo betspeed.txt criado com sucesso.")

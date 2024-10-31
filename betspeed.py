@@ -23,15 +23,25 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # Lista de URLs e seus respectivos títulos de campeonato
 urls = [
+    # Liga das nações UEFA
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=WORLD&championship=Liga%20das%20Na%C3%A7%C3%B5es%20UEFA&championshipId=sr:tournament:23755", "title": "Liga das Nações UEFA"},
+    # Campeonato do mundo    
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=WORLD&championship=Campeonato%20do%20Mundo,%20Qualifica%C3%A7%C3%A3o%20CONMEBOL&championshipId=sr:tournament:295", "title": "Campeonato do Mundo - Qualificação CONMEBOL"},
+    # Copa do Brasil
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=Brasil&championship=Copa%20do%20Brasil&championshipId=sr:tournament:373", "title": "Copa do Brasil"},
+    # Brasileirão Série A
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=Brasil&championship=Brasileir%C3%A3o%20S%C3%A9rie%20A&championshipId=sr:tournament:325", "title": "Brasileirão Série A"},
+    # Premier League
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=Inglaterra&championship=Premier%20League&championshipId=sr:tournament:17", "title": "Premier League"},
+    # La Liga
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=Espanha&championship=La%20Liga&championshipId=sr:tournament:8", "title": "La Liga"},
+    # Série A
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=It%C3%A1lia&championship=S%C3%A9rie%20A&championshipId=sr:tournament:23", "title": "Série A - Itália"},
+    # Bundesliga
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=Alemanha&championship=Bundesliga&championshipId=sr:tournament:35", "title": "Bundesliga"},
+    # Copa Libertadores
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=WORLD&championship=Copa%20Libertadores&championshipId=sr:tournament:384", "title": "Copa Libertadores"},
+    # Taça Sul-Americana
     {"url": "https://www.betspeed.com/home/events-area/s/SC?country=WORLD&championship=Ta%C3%A7a%20Sul-Americana&championshipId=sr:tournament:480", "title": "Taça Sul-Americana"}
 ]
 
@@ -109,7 +119,7 @@ def scrape_betspeed(url_info, first_url=False):
                         output_file.write(f"Erro ao extrair as ODDS para o jogo {team1} vs {team2}: {e}\n")
 
         except Exception as e:
-            output_file.write(f"Erro ao extrair as datas e os jogos: {e}\n")
+            output_file.write(f"O campeonato a seguir não possui apostas: {championship_title}\n\n")
 
     except Exception as e:
         output_file.write(f"Erro ao processar a URL {url}: {e}\n")

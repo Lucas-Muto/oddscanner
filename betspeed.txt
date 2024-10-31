@@ -1,64 +1,10 @@
-Liga das Nações UEFA
-Data: 15/10/2024
-[ Escócia vs Portugal ]
-Vitória Escócia: ODD 6.00
-Empate: ODD 4.70
-Vitória Portugal: ODD 1.60
------------------------------------
-Liga das Nações UEFA
-Data: 15/10/2024
-[ Polónia vs Croácia ]
-Vitória Polónia: ODD 3.00
-Empate: ODD 3.20
-Vitória Croácia: ODD 2.50
------------------------------------
-Liga das Nações UEFA
-Data: 15/10/2024
-[ Espanha vs Sérvia ]
-Vitória Espanha: ODD 1.35
-Empate: ODD 5.10
-Vitória Sérvia: ODD 9.00
------------------------------------
-Liga das Nações UEFA
-Data: 15/10/2024
-[ Irlanda do Norte vs Bulgária ]
-Vitória Irlanda do Norte: ODD 1.90
-Empate: ODD 3.15
-Vitória Bulgária: ODD 4.70
------------------------------------
-Liga das Nações UEFA
-Data: 15/10/2024
-[ Kosovo vs Chipre ]
-Vitória Kosovo: ODD 1.32
-Empate: ODD 5.30
-Vitória Chipre: ODD 8.50
------------------------------------
-Liga das Nações UEFA
-Data: 15/10/2024
-[ Suíça vs Dinamarca ]
-Vitória Suíça: ODD 2.15
-Empate: ODD 3.25
-Vitória Dinamarca: ODD 3.55
------------------------------------
-Liga das Nações UEFA
-Data: 15/10/2024
-[ Bielorrússia vs Luxemburgo ]
-Vitória Bielorrússia: ODD 2.85
-Empate: ODD 2.80
-Vitória Luxemburgo: ODD 2.85
------------------------------------
-Liga das Nações UEFA
-Data: 15/10/2024
-[ Lituânia vs Roménia ]
-Vitória Lituânia: ODD 5.40
-Empate: ODD 3.65
-Vitória Roménia: ODD 1.65
------------------------------------
+O campeonato a seguir não possui apostas: Liga das Nações UEFA
+
 Campeonato do Mundo - Qualificação CONMEBOL
 Data: 15/10/2024
 [ Colômbia vs Chile ]
-Vitória Colômbia: ODD 1.42
-Empate: ODD 4.90
+Vitória Colômbia: ODD 1.41
+Empate: ODD 5.00
 Vitória Chile: ODD 11.00
 -----------------------------------
 Campeonato do Mundo - Qualificação CONMEBOL
@@ -89,7 +35,7 @@ Vitória Brasil: ODD 1.24
 Empate: ODD 7.20
 Vitória Perú: ODD 18.00
 -----------------------------------
-Erro ao extrair as datas e os jogos: Message: 
+O campeonato a seguir não possui apostas: Copa do Brasil
 
 Brasileirão Série A
 Data: 16/10/2024
@@ -100,31 +46,31 @@ Vitória Atlético Mineiro: ODD 5.00
 -----------------------------------
 Brasileirão Série A
 Data: 16/10/2024
-[ Corinthians vs Atlético Paranaense ]
-Vitória Corinthians: ODD 1.75
-Empate: ODD 3.60
-Vitória Atlético Paranaense: ODD 4.70
------------------------------------
-Brasileirão Série A
-Data: 16/10/2024
-[ Cruzeiro MG vs EC Bahia ]
-Vitória Cruzeiro MG: ODD 2.19
-Empate: ODD 3.25
-Vitória EC Bahia: ODD 3.40
------------------------------------
-Brasileirão Série A
-Data: 17/10/2024
-[ São Paulo FC vs CR Vasco da Gama RJ ]
-Vitória São Paulo FC: ODD 1.76
-Empate: ODD 3.70
-Vitória CR Vasco da Gama RJ: ODD 5.00
------------------------------------
-Brasileirão Série A
-Data: 17/10/2024
 [ AC Goianiense vs Cuiaba EC ]
 Vitória AC Goianiense: ODD 2.02
 Empate: ODD 3.25
 Vitória Cuiaba EC: ODD 3.90
+-----------------------------------
+Brasileirão Série A
+Data: 16/10/2024
+[ SC Internacional vs Gremio FB Porto Alegrense RS ]
+Vitória SC Internacional: ODD 1.75
+Empate: ODD 3.65
+Vitória Gremio FB Porto Alegrense RS: ODD 4.60
+-----------------------------------
+Brasileirão Série A
+Data: 17/10/2024
+[ São Paulo FC vs CR Vasco da Gama RJ ]
+Vitória São Paulo FC: ODD 1.71
+Empate: ODD 3.70
+Vitória CR Vasco da Gama RJ: ODD 5.40
+-----------------------------------
+Brasileirão Série A
+Data: 17/10/2024
+[ Botafogo FR vs Criciúma EC SC ]
+Vitória Botafogo FR: ODD 1.41
+Empate: ODD 4.70
+Vitória Criciúma EC SC: ODD 7.20
 -----------------------------------
 Brasileirão Série A
 Data: 18/10/2024
@@ -135,15 +81,29 @@ Vitória Fluminense FC: ODD 4.20
 -----------------------------------
 Brasileirão Série A
 Data: 18/10/2024
-[ Botafogo FR vs Criciúma EC SC ]
-Vitória Botafogo FR: ODD 1.41
-Empate: ODD 4.70
-Vitória Criciúma EC SC: ODD 7.20
+[ Cruzeiro MG vs EC Bahia ]
+Vitória Cruzeiro MG: ODD 2.19
+Empate: ODD 3.25
+Vitória EC Bahia: ODD 3.40
+-----------------------------------
+Brasileirão Série A
+Data: 19/10/2024
+[ Corinthians vs Atlético Paranaense ]
+Vitória Corinthians: ODD 1.75
+Empate: ODD 3.60
+Vitória Atlético Paranaense: ODD 4.70
+-----------------------------------
+Brasileirão Série A
+Data: 19/10/2024
+[ EC Vitória BA vs RB Bragantino ]
+Vitória EC Vitória BA: ODD 2.28
+Empate: ODD 3.20
+Vitória RB Bragantino: ODD 3.20
 -----------------------------------
 Premier League
 Data: 19/10/2024
 [ Tottenham Hotspur FC vs West Ham United FC ]
-Vitória Tottenham Hotspur FC: ODD 1.51
+Vitória Tottenham Hotspur FC: ODD 1.52
 Empate: ODD 4.80
 Vitória West Ham United FC: ODD 5.20
 -----------------------------------
@@ -192,9 +152,9 @@ Vitória Arsenal FC: ODD 1.68
 La Liga
 Data: 18/10/2024
 [ Deportivo Alavés vs Real Valladolid ]
-Vitória Deportivo Alavés: ODD 1.70
-Empate: ODD 3.80
-Vitória Real Valladolid: ODD 4.80
+Vitória Deportivo Alavés: ODD 1.69
+Empate: ODD 3.70
+Vitória Real Valladolid: ODD 5.00
 -----------------------------------
 La Liga
 Data: 18/10/2024
@@ -202,6 +162,13 @@ Data: 18/10/2024
 Vitória CA Osasuna: ODD 2.70
 Empate: ODD 3.35
 Vitória Real Bétis Balompié: ODD 2.55
+-----------------------------------
+La Liga
+Data: 18/10/2024
+[ RC Celta de Vigo vs Real Madrid CF ]
+Vitória RC Celta de Vigo: ODD 4.60
+Empate: ODD 4.30
+Vitória Real Madrid CF: ODD 1.64
 -----------------------------------
 La Liga
 Data: 19/10/2024
@@ -235,8 +202,15 @@ Série A - Itália
 Data: 19/10/2024
 [ AC Milão vs Udinese Calcio ]
 Vitória AC Milão: ODD 1.38
-Empate: ODD 5.00
-Vitória Udinese Calcio: ODD 7.60
+Empate: ODD 4.90
+Vitória Udinese Calcio: ODD 7.40
+-----------------------------------
+Série A - Itália
+Data: 19/10/2024
+[ Juventus FC vs Lázio ]
+Vitória Juventus FC: ODD 2.009
+Empate: ODD 3.25
+Vitória Lázio: ODD 3.95
 -----------------------------------
 Bundesliga
 Data: 18/10/2024
@@ -248,7 +222,7 @@ Vitória FC St. Pauli: ODD 9.00
 Bundesliga
 Data: 18/10/2024
 [ FSV Mainz vs RB Leipzig ]
-Vitória FSV Mainz: ODD 4.10
+Vitória FSV Mainz: ODD 4.00
 Empate: ODD 3.85
 Vitória RB Leipzig: ODD 1.81
 -----------------------------------
@@ -283,11 +257,11 @@ Vitória Eintracht Frankfurt: ODD 6.20
 Bundesliga
 Data: 19/10/2024
 [ TSG Hoffenheim vs VfL Bochum ]
-Vitória TSG Hoffenheim: ODD 1.67
+Vitória TSG Hoffenheim: ODD 1.65
 Empate: ODD 4.20
-Vitória VfL Bochum: ODD 4.50
+Vitória VfL Bochum: ODD 4.60
 -----------------------------------
-Erro ao extrair as datas e os jogos: Message: 
+O campeonato a seguir não possui apostas: Copa Libertadores
 
-Erro ao extrair as datas e os jogos: Message: 
+O campeonato a seguir não possui apostas: Taça Sul-Americana
 
